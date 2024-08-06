@@ -2,7 +2,7 @@
 
 The MODI-SIC project, is a software tool that automates the assembly process of SIC machine code.
 
-**Tools Used**: Python 
+**Technologies Used**: Python 
 
 ## Program Components and Usage:
 
